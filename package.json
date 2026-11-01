@@ -1,0 +1,24 @@
+{
+  "name": "dsh-qzone-daily",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "main": "lib/index.js",
+  "description": "小鲸鱼 · QQ空间科普日更插件：让 DSH 里的 agent 每天按五大洲循环，自动发一篇「历史/文明」四轴时间线说说（每句标出处），并巡检评论区耐心回复。",
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "deepseek-harness",
+    "qq",
+    "qzone",
+    "agent",
+    "bot",
+    "history"
+  ],
+  "license": "MIT",
+  "dsh": {
+    "bundle": {
+      "patch": "cordis.patch.yml"
+    }
+  }
+}
