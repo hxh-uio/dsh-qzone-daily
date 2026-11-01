@@ -1,0 +1,5 @@
+patches:
+  dsh.profile.bundles:
+    $insert:
+      - id: dsh-qzone-daily
+        name: dsh-qzone-daily
