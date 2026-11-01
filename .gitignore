@@ -1,0 +1,16 @@
+# 依赖
+node_modules/
+
+# 真实运行配置 / 状态（含私密会话 id，绝不入库）
+qzone-daily.config.json
+qzone-daily-state.json
+*.config.json
+*-state.json
+
+# 备份
+*.bak*
+*.bak-*
+
+# 系统
+.DS_Store
+Thumbs.db
