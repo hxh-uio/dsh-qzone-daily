@@ -1,0 +1,9 @@
+{
+  "_comment": "把本文件复制为 ~/.dsh/qzone-daily.config.json 后填入你的真实值。真实配置文件已被 .gitignore 忽略，不会进仓库。",
+  "enabled": true,
+  "hour": 20,
+  "minute": 0,
+  "ugcRight": 4,
+  "sessionId": "bili-whale-char-YOUR_CHAR_ID",
+  "cooldownMin": 20
+}
